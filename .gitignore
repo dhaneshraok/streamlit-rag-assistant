@@ -1,0 +1,13 @@
+# Python virtual environment folder
+myenv312/
+
+# Common OS/Editor files to ignore
+.vscode/
+.DS_Store
+__pycache__/
+
+# Streamlit secrets (if storing them locally for testing)
+.streamlit/secrets.toml
+
+# Deployment specific files
+.venv/

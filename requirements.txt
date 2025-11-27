@@ -1,0 +1,7 @@
+streamlit
+requests
+pypdf
+faiss-cpu
+sentence-transformers
+langchain-community
+langchain-text-splitters
